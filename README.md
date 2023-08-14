@@ -1,1 +1,1 @@
-cloud x hackathon
+for cloud x hackathon.
